@@ -1,32 +1,25 @@
-# Hi, I'm Chandon👋
+# Chandon 
 
-I'm a student from Bangladesh passionate about Computer Science.
-I'm currently learning Python and building my first projects.
-My goal is to study CS abroad and use technology to solve real problems.
+Aspiring game developer. I want to build story-driven games
+that make people feel something real.
 
-## 🌱 Currently learning
-- Python basics
+Currently learning everything from scratch — properly.
+No shortcuts, no copy-paste, no skipping the hard parts.
+
+---
+
+## 🎮 What I'm Building
+- Small games covering different areas of game dev
+- A hand-built website (no templates)
+- A chatbot integrated into my site
+- Long term: a story-driven game called **Veypor**
+
+## 🌱 Currently Learning
+- Python
+- HTML & CSS
 - Git & GitHub
-- CS50 by Harvard (starting soon)
+- CS50 by Harvard
 
-## 📫 Connect with me
-- LinkedIn: www.linkedin.com/in/chandon-s-partho
-
-## 🚀 Coming soon
-- My first Python project
-- A personal portfolio website
-
-<!--
-**chandonspartho/chandonspartho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Find Me
+- [LinkedIn](https://www.linkedin.com/in/chandon-s-partho)
+- chandons.partho@gmail.com
