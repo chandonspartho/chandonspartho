@@ -15,11 +15,11 @@ No shortcuts, no copy-paste, no skipping the hard parts.
 - Long term: a story-driven game called **Veypor**
 
 ## 🌱 Currently Learning
-- Python
-- HTML & CSS
-- Git & GitHub
-- CS50 by Harvard
+- JavaScript — building browser games
+- HTML & CSS — already built my first webpage
+- Git & GitHub — documenting everything here publicly
+- CS50 by Harvard — starting soon
 
 ## 📫 Find Me
-- [LinkedIn](https://www.linkedin.com/in/chandon-s-partho)
+- https://www.linkedin.com/in/chandon-s-partho
 - chandons.partho@gmail.com
